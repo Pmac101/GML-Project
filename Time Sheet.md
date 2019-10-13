@@ -33,5 +33,13 @@
 <li>I was able to finish programming the user sprite controls. Like I said before, it has been frustrating, however, it is rewarding to see my perseverance pay off. I am also starting to get a feel for GML syntax.</li>
 </ul>
 </li>
+<li>
+<p>Week 5</p>
+<ul>
+<li>3 hours</li>
+<li>Created collision masks for user sprite and asteroids. This step was easy and did not take as long as expected.</li>
+<li>I also began working on the attack function for the user sprite. This was rather difficult to get working correctly, but after lots of trial and error I was able to succeed.</li>
+</ul>
+</li>
 </ul>
 
