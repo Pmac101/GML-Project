@@ -41,5 +41,13 @@
 <li>I also began working on the attack function for the user sprite. This was rather difficult to get working correctly, but after lots of trial and error I was able to succeed.</li>
 </ul>
 </li>
+<li>
+<p>Week 6</p>
+<ul>
+<li>2 hours</li>
+<li>Fine tuned a few things regarding attack functions and collisions.</li>
+<li>Began creating room environments (Start Menu, Game Over). Creating the actual text for the rooms was easy, however, getting the rooms to transition and function properly has been difficult.</li>
+</ul>
+</li>
 </ul>
 
