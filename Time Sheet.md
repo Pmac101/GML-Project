@@ -49,5 +49,12 @@
 <li>Began creating room environments (Start Menu, Game Over). Creating the actual text for the rooms was easy, however, getting the rooms to transition and function properly has been difficult.</li>
 </ul>
 </li>
+<li>
+<p>Week 7</p>
+<ul>
+<li>3 hours</li>
+<li>Finished code for room environments. Also implemented Score, Lives, and Events functions, which was rather easy compared to creating the room environments.</li>
+</ul>
+</li>
 </ul>
 
