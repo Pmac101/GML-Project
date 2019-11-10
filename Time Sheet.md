@@ -63,5 +63,12 @@
 <li>Adjusted asteroid spawn rate and randomization. This has been a little tricky, but it does function properly. I may end up lowering the spawn rate because I feel like there are almost too many asteroids once they break into smaller pieces after being shot.</li>
 </ul>
 </li>
+<li>
+<p>Week 9</p>
+<ul>
+<li>2 hours</li>
+<li>Sound effects were added to the game. This was an easy task. The hardest part was simply deciding which sound effects to use.</li>
+</ul>
+</li>
 </ul>
 
