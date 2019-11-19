@@ -70,5 +70,12 @@
 <li>Sound effects were added to the game. This was an easy task. The hardest part was simply deciding which sound effects to use.</li>
 </ul>
 </li>
+<li>
+<p>Week 10</p>
+<ul>
+<li>2 hours</li>
+<li>Fine tuned a few things with asteroid spawn rate. Began testing game to ensure it functions properly.</li>
+</ul>
+</li>
 </ul>
 
