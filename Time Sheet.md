@@ -77,5 +77,12 @@
 <li>Fine tuned a few things with asteroid spawn rate. Began testing game to ensure it functions properly.</li>
 </ul>
 </li>
+<li>
+<p>Week 11</p>
+<ul>
+<li>1 hour</li>
+<li>The game appears to be functioning as intended. This has been a major learning experience and I am glad I stuck with it and did not choose an easier project. Even though I am more familiar with GameMaker Studio there are still many things that can be learned. At the beginning of week 1 I was worried about what I had gotten myself into, but my persistence paid off and now I feel like I am ready to tackle an even harder project.</li>
+</ul>
+</li>
 </ul>
 
